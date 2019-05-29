@@ -1,0 +1,6 @@
+Vladik Vladimirovich Kurpol 
+cleaning 31456 1000 200 0
+========================
+Ivan Ivanovich Ivanov 
+cleaning 32156 1400 200 321
+========================
